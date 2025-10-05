@@ -1,3 +1,3 @@
-# 24/7
+# Ajax Phi 3.14
 
-in4mationsys - information pages repository
+ajaxphi314 - encryption with phi 3.14
